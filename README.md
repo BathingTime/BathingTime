@@ -1,7 +1,7 @@
 Hello! I am @BathingTime
 
 I'm currently a grade 10 high school student. I have had over 4 years of coding experience. I learned Python for a majority of the time period and am quite
-knowledgeable in it. I am currently learning Java and taking an AP computer science course. Despite my coding background, I still consider myself a novice
+knowledgeable in it. I am currently learning Java. Despite my coding background, I still consider myself a novice
 coder.
 
 I am interested in computer science and technology. I specifically am planning to get into software development. Some other things I'm interested in is
